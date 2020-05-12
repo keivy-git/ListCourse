@@ -1,1 +1,6 @@
 # ListCourse
+
+
+  
+Partie Back-end en java : https://github.com/keivy-git/ListCourseBack.
+Partie Front-end en angular : https://github.com/keivy-git/ListCourseFront
